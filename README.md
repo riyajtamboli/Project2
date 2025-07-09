@@ -1,1 +1,1 @@
-this is created for learnig git and github
+this is created for learning git and github
